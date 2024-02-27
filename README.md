@@ -1,1 +1,1 @@
-![drwuzi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drwuzi&theme=merko&show_icons=true&hide_border=true&layout=compact)
+[![drwuzi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drwuzi&theme=merko&show_icons=true&hide_border=true&layout=compact)](https://github.com/DrWuzi)
